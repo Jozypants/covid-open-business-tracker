@@ -19,7 +19,7 @@ _Note: Google API rescritions allows us to restrict our KEY to IP Addresses & HT
 6. Step seven: Run npm run start on your terminal. 
 7. Step Eight: Enjoy site. 
 
-or enjoy it at [Netlify] (netlify site here)
+or enjoy it at [Netlify] https://gallant-stonebraker-4aaeb6.netlify.app/
 
 ## **Behaviors**
 
