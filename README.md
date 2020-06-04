@@ -1,4 +1,4 @@
-# APP TITLE GOES HERE  
+# Covid Open Business Tracker
 
 #### _Object-Oriented Programming_ - _4/27/2020_
 
